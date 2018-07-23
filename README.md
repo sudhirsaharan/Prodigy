@@ -17,4 +17,50 @@ trainee when required.
 
 Project Screenshots
 
+Add Trainee
+![]TMS_Screenshots/Capture.PNG
 
+Add Admin
+
+![]TMS_Screenshots/Capture2.PNG
+
+Add Center
+
+![]TMS_Screenshots/Capture3.PNG
+
+Add New Course
+
+![]TMS_Screenshots/Capture8.PNG
+
+Edit Course
+
+![]TMS_Screenshots/Capture12.PNG
+
+Trainee Details
+
+![]TMS_Screenshots/Capture13.PNG
+
+Manage Admin
+
+![]TMS_Screenshots/Capture14.PNG
+
+Manage Fee
+
+![]TMS_Screenshots/Capture16.PNG
+
+Trainee Portal
+
+![]TMS_Screenshots/Capture17.PNG
+
+
+
+Contribution guidelines
+Before making a pull request, please make sure of the following:
+
+Improvements of the project are encouraged 
+The pull request needs to have a descriptive title
+If the language/technology of the project is not familiar to you, feel free to create a new entry in table of contents
+Make a separate pull request for each part you work on.
+Check the spelling and grammar
+Remove any trailing whitespaces
+Thank you for your suggestions! If you think there is anything to improve with the guidelines, please contact me at sudhirsaharan01@gmail.com
