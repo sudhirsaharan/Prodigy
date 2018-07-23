@@ -17,40 +17,41 @@ trainee when required.
 
 Project Screenshots
 
-Add Trainee
-![]TMS_Screenshots/Capture.PNG
+Add New Trainee
+
+![](TMS_Screenshots/Capture.PNG)
 
 Add Admin
 
-![]TMS_Screenshots/Capture2.PNG
+![](TMS_Screenshots/Capture2.PNG)
 
 Add Center
 
-![]TMS_Screenshots/Capture3.PNG
+![](TMS_Screenshots/Capture3.PNG)
 
 Add New Course
 
-![]TMS_Screenshots/Capture8.PNG
+![](TMS_Screenshots/Capture8.PNG)
 
 Edit Course
 
-![]TMS_Screenshots/Capture12.PNG
+![](TMS_Screenshots/Capture12.PNG)
 
 Trainee Details
 
-![]TMS_Screenshots/Capture13.PNG
+![](TMS_Screenshots/Capture13.PNG)
 
 Manage Admin
 
-![]TMS_Screenshots/Capture14.PNG
+![](TMS_Screenshots/Capture14.PNG)
 
 Manage Fee
 
-![]TMS_Screenshots/Capture16.PNG
+![](TMS_Screenshots/Capture16.PNG)
 
 Trainee Portal
 
-![]TMS_Screenshots/Capture17.PNG
+![](TMS_Screenshots/Capture17.PNG)
 
 
 
